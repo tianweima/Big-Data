@@ -1,6 +1,5 @@
 # project-group-11
 # Working with Large Data Set --- DNSC 6290
-**Group members: Hailey Ling, Tianwei Ma, Sophie Song, Liping Xie**
 
 ## 1. Executive Summary
 > Google Books Ngrams is a series of data sets unveiled by Google. It contains word occurrence from a large corpus of books, which is a good data set for the examination of cultural change as it is reflected in books. This project is going to use the British English section in Google Ngram (1-gram is 2GB and 3-gram is 46.8GB) to study the popularity and occurrence fluctuation of specific words and build a Language Generation Model in NLP.  
@@ -101,13 +100,6 @@ There are many ways to elaborate this project into a mature search engine or a m
 2. Increase the data scope to include more English literature. 
 3. Using 4 grams or even 5 grams rather than 3 grams to increase the rationality of sentences produced by our NPL model.
 
-
-## Division of labor
-
-- Hailey Ling: Data cleaning and pre-processing
-- Liping Xie: Trend viewer
-- Sophie Song: Word cloud; Language model
-- Tianwei Ma: Language Model
 
 ## Takeaways from the Course:
 
